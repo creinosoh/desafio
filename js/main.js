@@ -32,3 +32,4 @@ while (signo != "ESC") {
     }
     signo = prompt("Ingresa tu signo del zodiaco (sin acentos y minúscula) o ESC para terminar");
 }
+prompt("Gracias por participar!")
